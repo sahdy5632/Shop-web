@@ -1,0 +1,19 @@
+/*登入頁+LOGO+導航列+頁尾*/
+
+@import url("fixed.css");
+.con_style{
+  
+   
+}
+.con_style_1{
+    font-size: 18px;
+    text-align: center;
+}
+p{
+    text-indent: 15px;
+    text-align: left;
+    padding: 5px;
+    margin-left: 20px;
+    text-indent: -1em
+    
+}

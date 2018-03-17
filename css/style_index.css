@@ -1,0 +1,48 @@
+/*登入頁+LOGO+導航列+頁尾*/
+@import url("fixed.css");
+
+/*內文*/
+.con_service{
+    padding-top: 10px;
+    padding: 30px;
+    height:110px;   
+}
+.benner{
+    width: 940px;
+    height: 380px;
+
+}
+
+.article{
+    width:300px;
+    height:150px;
+    display:inline;
+    margin:10px 5px 10px 5px;
+    font-size: 25px;
+    line-height:200px;
+    text-align: center;
+}
+
+.FB,.hot,.aboue_us{
+    color: aliceblue;
+    background-color:rgb(164,204,188);
+    height: 300px;
+    margin-top: 20px;
+    padding: 10px 0px 5px 0px;
+    font-size: 25px;
+    text-align: center;
+    
+    
+}
+.aboue_us_style{
+    display:block;
+    height: 100%;
+    padding-left:25px;
+    text-align:left;
+    
+}
+.aboue_us_style a{
+    text-decoration: none;
+    font-size: 15px;
+}
+

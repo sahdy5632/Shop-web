@@ -1,0 +1,15 @@
+/*登入頁+LOGO+導航列+頁尾*/
+
+@import url("fixed.css");
+
+h1{
+    font-size: 30px;
+    margin: 20px;
+}
+.aboutus_style{
+    font-size: 18px;
+    padding-top: 10px;
+    line-height: 30px;
+    
+
+}
