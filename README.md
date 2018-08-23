@@ -1,9 +1,8 @@
 ##期末網頁設計作業
-網址：http://schoolwork.owoyuting.com/
 ##簡單網頁架構
+網址：http://schoolwork.owoyuting.com/
 
 首頁index.html
-
 特價(cheap_product.html)
 新產品(new_product.html)
 暢銷(popular_product.html)
