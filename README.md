@@ -1,5 +1,5 @@
 ##期末網頁設計作業
-
+網址：http://schoolwork.owoyuting.com/
 ##簡單網頁架構
 
 首頁index.html
@@ -39,4 +39,6 @@ T恤 $500 (t_shirt.html)
 配送方式(distribution.html)
 電話訂購(phone_order.html)
 退換貨資訊(returns_info.html)
+
+
 
